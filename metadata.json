@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Shree Sai Enterprises",
+  "description": "B2B Plastic Contract Manufacturing specialising in Plastic Grinding Works and Injection Moulding in Bhosari, Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
